@@ -1,0 +1,14 @@
+baseURL = "https://gabsoamn.github.io/"
+languageCode = "fr-ca"
+defaultContentLanguage = "fr"
+author = "Gabriela Mendonca"
+title = "Gabriela's Blog"
+theme = "hugo-vitae"
+paginate = 5
+enableRobotsTXT = true
+
+publishdir = "../docs"
+
+[params]
+    homepage = false
+    avatar = "/images/self.jpg"
