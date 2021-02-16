@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Gabriela&#39;s Blog</title>
-		<link>https://gabsoamn.github.io/</link>
-		<description>Recent content on gabsoamn.github.io</description>
+		<title>Posts on Gabriela&#39;s Blog</title>
+		<link>https://gabsoamn.github.io/posts/</link>
+		<description>Recent content in Posts on gabsoamn.github.io</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>fr-ca</language>
 		<lastBuildDate>Mon, 15 Feb 2021 20:25:55 -0500</lastBuildDate>
 		
-		<atom:link href="https://gabsoamn.github.io/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://gabsoamn.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>Le Lion Protège la Lapine</title>
