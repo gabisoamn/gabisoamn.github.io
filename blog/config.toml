@@ -12,3 +12,9 @@ publishdir = "../docs"
 [params]
     homepage = false
     avatar = "/images/self.jpg"
+    subtitle = "Plein d'imagination et de rêves!"
+
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github"
+    url = "https://github.com/gabisoamn"
