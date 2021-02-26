@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Gabriela&#39;s Blog</title>
-		<link>https://gabsoamn.github.io/</link>
-		<description>Recent content on gabsoamn.github.io</description>
+		<link>https://gabisoamn.github.io/</link>
+		<description>Recent content on gabisoamn.github.io</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>fr-ca</language>
 		<lastBuildDate>Sun, 21 Feb 2021 21:42:19 -0500</lastBuildDate>
 		
-		<atom:link href="https://gabsoamn.github.io/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://gabisoamn.github.io/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>Kila et les Crêpes</title>
-			<link>https://gabsoamn.github.io/posts/kila-crepes/</link>
+			<link>https://gabisoamn.github.io/posts/kila-crepes/</link>
 			<pubDate>Sun, 21 Feb 2021 21:42:19 -0500</pubDate>
 			
-			<guid>https://gabsoamn.github.io/posts/kila-crepes/</guid>
+			<guid>https://gabisoamn.github.io/posts/kila-crepes/</guid>
 			<description>
 			
 				Il était une fois une petite fille qui s’appelait Kila. Sa nourriture préférée était des crêpes.
@@ -25,10 +25,10 @@ Elle aimait faire des crêpes avec sa mère. …
 		</item>
 		<item>
 			<title>Le Lion Protège la Lapine</title>
-			<link>https://gabsoamn.github.io/posts/lion-protege-lapine/</link>
+			<link>https://gabisoamn.github.io/posts/lion-protege-lapine/</link>
 			<pubDate>Mon, 15 Feb 2021 20:25:55 -0500</pubDate>
 			
-			<guid>https://gabsoamn.github.io/posts/lion-protege-lapine/</guid>
+			<guid>https://gabisoamn.github.io/posts/lion-protege-lapine/</guid>
 			<description>
 			
 				Il était une fois, une petite lapine qui vivait dans un trou. Un jour, la lapine a vu un lion. Elle a crié comme une folle. Heureusement, le …
