@@ -6,10 +6,22 @@
 		<description>Recent content in Posts on gabisoamn.github.io</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>fr-ca</language>
-		<lastBuildDate>Sun, 21 Feb 2021 21:42:19 -0500</lastBuildDate>
+		<lastBuildDate>Sun, 28 Feb 2021 18:06:48 -0500</lastBuildDate>
 		
 		<atom:link href="https://gabisoamn.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>La Fée des Dents</title>
+			<link>https://gabisoamn.github.io/posts/fee-dents/</link>
+			<pubDate>Sun, 28 Feb 2021 18:06:48 -0500</pubDate>
+			
+			<guid>https://gabisoamn.github.io/posts/fee-dents/</guid>
+			<description>
+			
+				Il était une fois une petite fille qui s’appelait Gabi. Elle a 6 ans et elle commence à perdre des dents. Quand elle mangeait un pain, sa …
+			
+			</description>
+		</item>
 		<item>
 			<title>Kila et les Crêpes</title>
 			<link>https://gabisoamn.github.io/posts/kila-crepes/</link>
@@ -31,7 +43,8 @@ Elle aimait faire des crêpes avec sa mère. …
 			<guid>https://gabisoamn.github.io/posts/lion-protege-lapine/</guid>
 			<description>
 			
-				Il était une fois, une petite lapine qui vivait dans un trou. Un jour, la lapine a vu un lion. Elle a crié comme une folle. Heureusement, le …
+				 
+Il était une fois, une petite lapine qui vivait dans un trou. Un jour, la lapine a vu un lion. Elle a crié comme une folle. Heureusement, …
 			
 			</description>
 		</item>
