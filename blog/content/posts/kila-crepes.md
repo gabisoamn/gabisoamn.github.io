@@ -4,6 +4,8 @@ date: 2021-02-21T21:42:19-05:00
 draft: false
 ---
 
+![Kila mange des crêpes avec son ami](/images/kila-crepe.jpg)
+
 Il était une fois une petite fille qui s’appelait Kila. Sa nourriture préférée était des crêpes.
 
 Elle aimait faire des crêpes avec sa mère. Elle faisait des crêpes tous les dimanches matin à 10h. 
