@@ -6,10 +6,23 @@
 		<description>Recent content on gabisoamn.github.io</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>fr-ca</language>
-		<lastBuildDate>Sun, 28 Mar 2021 10:06:05 -0400</lastBuildDate>
+		<lastBuildDate>Wed, 21 Apr 2021 10:01:11 -0400</lastBuildDate>
 		
 		<atom:link href="https://gabisoamn.github.io/index.xml" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>Les animaux de mon jardin</title>
+			<link>https://gabisoamn.github.io/posts/animaux-jardin/</link>
+			<pubDate>Wed, 21 Apr 2021 10:01:11 -0400</pubDate>
+			
+			<guid>https://gabisoamn.github.io/posts/animaux-jardin/</guid>
+			<description>
+			
+				 
+Lundi matin, j’ai vu un lapin. Il est brun et très doux, mon animal préféré est le lapin. J’aime les lapins parce qu’ils sont mignons. …
+			
+			</description>
+		</item>
 		<item>
 			<title>J&#39;aime Wonder Woman</title>
 			<link>https://gabisoamn.github.io/posts/wonder-woman/</link>
@@ -18,12 +31,13 @@
 			<guid>https://gabisoamn.github.io/posts/wonder-woman/</guid>
 			<description>
 			
-				Je m’appelle Gabriela et j’ai vu le dessin animé de Wonder Woman quand j’avais 5 ans. J’ai adoré Wonder Woman parce qu’elle est courageuse. …
+				 
+Je m’appelle Gabriela et j’ai vu le dessin animé de Wonder Woman quand j’avais 5 ans. J’ai adoré Wonder Woman parce qu’elle est …
 			
 			</description>
 		</item>
 		<item>
-			<title>Le Doudou Perdu</title>
+			<title>Le Doudou perdu</title>
 			<link>https://gabisoamn.github.io/posts/doudou-perdu/</link>
 			<pubDate>Thu, 18 Mar 2021 10:01:11 -0400</pubDate>
 			
@@ -36,7 +50,7 @@ Il était une fois une petite fille qui s’appelait Gigi. Son doudou était un 
 			</description>
 		</item>
 		<item>
-			<title>La Fée des Dents</title>
+			<title>La Fée des dents</title>
 			<link>https://gabisoamn.github.io/posts/fee-dents/</link>
 			<pubDate>Sun, 28 Feb 2021 18:06:48 -0500</pubDate>
 			
@@ -49,7 +63,7 @@ Il était une fois une petite fille qui s’appelait Gabi. Elle a 6 ans et elle 
 			</description>
 		</item>
 		<item>
-			<title>Kila et les Crêpes</title>
+			<title>Kila et les crêpes</title>
 			<link>https://gabisoamn.github.io/posts/kila-crepes/</link>
 			<pubDate>Sun, 21 Feb 2021 21:42:19 -0500</pubDate>
 			
@@ -63,7 +77,7 @@ Elle aimait faire des crêpes avec sa …
 			</description>
 		</item>
 		<item>
-			<title>Le Lion Protège la Lapine</title>
+			<title>Le Lion protège la lapine</title>
 			<link>https://gabisoamn.github.io/posts/lion-protege-lapine/</link>
 			<pubDate>Mon, 15 Feb 2021 20:25:55 -0500</pubDate>
 			

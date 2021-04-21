@@ -1,5 +1,5 @@
 ---
-title: "La Fée des Dents"
+title: "La Fée des dents"
 date: 2021-02-28T18:06:48-05:00
 draft: false
 ---

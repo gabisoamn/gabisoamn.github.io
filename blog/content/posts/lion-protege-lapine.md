@@ -1,5 +1,5 @@
 ---
-title: "Le Lion Protège la Lapine"
+title: "Le Lion protège la lapine"
 date: 2021-02-15T20:25:55-05:00
 draft: false
 ---

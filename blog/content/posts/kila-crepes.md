@@ -1,5 +1,5 @@
 ---
-title: "Kila et les Crêpes"
+title: "Kila et les crêpes"
 date: 2021-02-21T21:42:19-05:00
 draft: false
 ---

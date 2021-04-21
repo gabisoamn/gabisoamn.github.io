@@ -1,5 +1,5 @@
 ---
-title: "Le Doudou Perdu"
+title: "Le Doudou perdu"
 date: 2021-03-18T10:01:11-04:00
 draft: false
 ---
