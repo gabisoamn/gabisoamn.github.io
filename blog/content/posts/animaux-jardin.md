@@ -6,11 +6,11 @@ draft: false
 
 ![Lapin](/images/lapin.jpg)
 
-Lundi matin, j’ai vu un lapin. Il est brun et très doux, mon animal préféré est le lapin. J’aime les lapins parce qu’ils sont mignons. J’ai vu un lapin manger de l’herbe. Je sais qu’ils aiment des carottes comme moi. Sa maison est un terrier, mais il se promène dans mon jardin.
+Lundi matin, j’ai vu un lapin. Il est brun et très doux, mon animal préféré est le lapin. J’aime les lapins parce qu’ils sont mignons. J’ai vu un lapin manger les herbes du jardin. Je sais qu’ils aiment des carottes comme moi. Sa maison est un terrier, mais il se promène dans mon jardin.
 
 ![Lapin](/images/oiseau.jpg)
 
-Mardi matin, j’ai vu un oiseau. Il est blanc et grit. Il est sur un arbre. Tous les matins, il chante “pit,pit,pit”. J’ai peur qu’un oiseau fait caca ou pipi sur moi. mais ça n'a jamais passé! Ouf! J’aime donner du pain aux oiseaux mais ils ont peur de moi. Ha! ha! ha! ça c'est rigolo.
+Mardi matin, j’ai vu un oiseau. Il est blanc et grit. Il est sur un arbre. Tous les matins, il chante “pit,pit,pit”. J’ai peur qu’un oiseau fait caca ou pipi sur moi. Mais ça n'a jamais passé! Ouf! J’aime donner du pain aux oiseaux mais ils ont peur de moi. Ha! ha! ha! C'est rigolo!
 
 ![Lapin](/images/ecureuil.jpg)
 
