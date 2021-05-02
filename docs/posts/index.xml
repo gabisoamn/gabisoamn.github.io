@@ -6,10 +6,23 @@
 		<description>Recent content in Posts on gabisoamn.github.io</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>fr-ca</language>
-		<lastBuildDate>Wed, 21 Apr 2021 10:01:11 -0400</lastBuildDate>
+		<lastBuildDate>Thu, 22 Apr 2021 10:01:11 -0400</lastBuildDate>
 		
 		<atom:link href="https://gabisoamn.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>Le jour de la planète</title>
+			<link>https://gabisoamn.github.io/posts/planete/</link>
+			<pubDate>Thu, 22 Apr 2021 10:01:11 -0400</pubDate>
+			
+			<guid>https://gabisoamn.github.io/posts/planete/</guid>
+			<description>
+			
+				 
+Aujourd’hui c’est le jour de la planète. C’est le jour de prendre soin de la nature et protéger les plantes et les animaux. C’est les …
+			
+			</description>
+		</item>
 		<item>
 			<title>Les animaux de mon jardin</title>
 			<link>https://gabisoamn.github.io/posts/animaux-jardin/</link>
